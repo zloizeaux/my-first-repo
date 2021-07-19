@@ -1,0 +1,72 @@
+
+nav {
+    height: 50px;
+    background-color: gold;
+  }
+
+  .inline-block {
+    padding: 15px;
+    display: inline-block;
+    background-color: yellow;
+  }
+
+  .left {
+      width:29%;
+      background-color:green;
+      float: left;
+      height: 500px;
+
+  }
+
+.left1{
+    width:100%;
+    background-color: purple;
+    
+    float: top;
+    text-align: center;
+    
+}
+
+.left2{
+    width: 100%;
+    background-color:palegreen;
+    height: 275px;
+    float:top; 
+}
+
+  .right{
+    width: 71%;
+    float: left;
+    background-color: orange;
+    height: 500px;}
+
+.right1{
+    margin: 25px;
+    background-color:plum;
+    float: top; 
+  
+    width: 92%;}
+
+.right2{
+    height:250px;
+    text-align: center;
+
+
+}
+.puppies{ 
+    height: 175px;
+    margin: 5px;
+}
+.names{
+    margin:0
+}
+
+.maindog{
+    height: 175px;
+    margin: 10px;
+}
+.dog{
+    height:150px;
+    margin: 25px;
+
+}
